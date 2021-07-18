@@ -1,0 +1,15 @@
+!
+! Title: ZhoYolG AdGuard DNS filter
+!
+@@||ad.zhoyolg.com^
+@@||xn--4gqwbwd452e86u66kjr9btes.com^
+||qndxxsj.zhugeio.com^
+@@||dns.2580.host^
+||douyinvod.com^
+||pornhub.com^
+||trafficjunky.net^
+||pizzaseo.com^
+||pddpic.com^
+||yangkeduo.com^
+||pinduoduo.com^
+||pinduoduo.net^
