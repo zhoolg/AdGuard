@@ -13,3 +13,4 @@
 ||yangkeduo.com^
 ||pinduoduo.com^
 ||pinduoduo.net^
+||search-operate.cdn.bcebos.com^
