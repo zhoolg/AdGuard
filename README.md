@@ -1,2 +1,2 @@
 # AdGuardSDNSFilter
-[DNSFilter](https://zhoyolg.github.io/AdGuard/filter.txt)
+[DNSFilter](https://adguard.2580.host/filter.txt)
