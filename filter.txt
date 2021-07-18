@@ -14,3 +14,9 @@
 ||pinduoduo.com^
 ||pinduoduo.net^
 ||search-operate.cdn.bcebos.com^
+! YouTube
+/googleads.$~script,domain=~googleads.github.io
+/pagead/lvz?
+||google.com/pagead/
+||static.doubleclick.net^$domain=youtube.com
+||youtube.com/get_midroll_
