@@ -4,10 +4,9 @@
 ! ZhoYolG's BLOG:https://www.zhoyolg.com
 ! via e-mail (admin@zhoyolg.com).
 !
-@@||ad.zhoyolg.com^
-@@||xn--4gqwbwd452e86u66kjr9btes.com^
 ||qndxxsj.zhugeio.com^
-@@||dns.2580.host^
+! QQkandian
+||kandian.qq.com^
 ! Douyin 
 ||douyinpic.com^
 ||douyin.com^
@@ -30,6 +29,9 @@
 ||trafficjunky.net^
 ||pizzaseo.com^
 ||rdmj.xyz^
+||htp396.com^
+||392npt.com^
+||ef323.com^
 ||jgg18.xyz^
 ||mgej.xyz^
 ||hhhlllwwwxyz14.com^
