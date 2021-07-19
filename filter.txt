@@ -1,5 +1,7 @@
 !
 ! Title: ZhoYolG AdGuard DNS filter
+! Page:https://adguard.2580.host/filter.txt
+! ZhoYolG's BLOG:https://www.zhoyolg.com
 !
 @@||ad.zhoyolg.com^
 @@||xn--4gqwbwd452e86u66kjr9btes.com^
