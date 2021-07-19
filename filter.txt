@@ -17,6 +17,10 @@
 ||kuaishou.com^
 ||kwaicdn.com^
 ||yximgs.com^
+! huoshan
+||huoshan.com^
+||huoshanvod.com^
+||huoshanimg.com^
 ! LOOK AT YOURSELF
 ||maomiav.com^
 ||pornhub.com^
