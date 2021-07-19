@@ -20,3 +20,6 @@
 ||google.com/pagead/
 ||static.doubleclick.net^$domain=youtube.com
 ||youtube.com/get_midroll_
+||mbd.baidu.com^
+||b.bdstatic.com^
+||apd-vodp2plogin.teg.tencent-cloud.net^
