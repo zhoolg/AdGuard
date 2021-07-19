@@ -10,6 +10,13 @@
 ||douyin.com^
 ||amemv.com^
 ||douyinvod.com^
+! Toutiao
+||toutiao.com^
+||snssdk.com^
+! Kuaishou
+||kuaishou.com^
+||kwaicdn.com^
+||yximgs.com^
 ! LOOK AT YOURSELF
 ||maomiav.com^
 ||pornhub.com^
