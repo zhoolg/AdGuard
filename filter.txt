@@ -62,6 +62,9 @@
 ||b.bdstatic.com^
 ! emmmmmm
 ||apd-vodp2plogin.teg.tencent-cloud.net^
+||4399.com^
+||7k7k.com^
+||4399en.com^
 !
 @@||xn--4gqwbwd452e86u66kjr9btes.com^
 @@||nos.netease.com^
