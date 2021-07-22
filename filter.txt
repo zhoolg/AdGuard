@@ -64,6 +64,5 @@
 ||apd-vodp2plogin.teg.tencent-cloud.net^
 !
 @@||xn--4gqwbwd452e86u66kjr9btes.com^
-@@||nos.netease.com^$important
-@@||clustrmaps.com^$important
-
+@@||nos.netease.com^
+@@||clustrmaps.com^
