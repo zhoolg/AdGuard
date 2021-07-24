@@ -69,3 +69,5 @@
 @@||xn--4gqwbwd452e86u66kjr9btes.com^
 @@||nos.netease.com^
 @@||clustrmaps.com^
+@@||clubhouse.pubnubapi.com^
+@@||yximgs.com^
