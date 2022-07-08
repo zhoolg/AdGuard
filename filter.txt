@@ -1,8 +1,8 @@
 !
-! Title: ZhoYolG AdGuard filter
-! Page:https://adguard.2580.host/filter.txt
-! ZhoYolG's BLOG:https://www.zhoyolg.com
-! via e-mail (admin@zhoyolg.com).
+! Title: ZhoolG AdGuard filter
+! Page:https://adguard.zhoolg.com/filter.txt
+! ZhoolG's BLOG:https://www.zhoolg.com
+! via e-mail (op@zhoolg.com).
 !
 ||qndxxsj.zhugeio.com^
 ! QQkandian
@@ -61,10 +61,3 @@
 ||4399.com^
 ||7k7k.com^
 ||4399en.com^
-!
-@@||xn--4gqwbwd452e86u66kjr9btes.com^
-@@||nos.netease.com^
-@@||clustrmaps.com^
-@@||clubhouse.pubnubapi.com^
-@@||yximgs.com^
-@@||advertise.baicizhan.com^
