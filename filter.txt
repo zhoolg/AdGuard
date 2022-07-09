@@ -4,10 +4,6 @@
 ! ZhoolG's BLOG:https://www.zhoolg.com
 ! via e-mail (op@zhoolg.com).
 !
-||qndxxsj.zhugeio.com^
-! QQkandian
-||kandian.qq.com^
-||weishi.qq.com^
 ! Douyin 
 ||douyinpic.com^
 ||douyin.com^
@@ -54,8 +50,6 @@
 ||pinduoduo.com^
 ||pinduoduo.net^
 ||search-operate.cdn.bcebos.com^
-||mbd.baidu.com^
-||b.bdstatic.com^
 ! emmmmmm
 ||apd-vodp2plogin.teg.tencent-cloud.net^
 ||4399.com^
