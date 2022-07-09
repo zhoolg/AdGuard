@@ -51,7 +51,6 @@
 ||pinduoduo.net^
 ||search-operate.cdn.bcebos.com^
 ! emmmmmm
-||apd-vodp2plogin.teg.tencent-cloud.net^
 ||4399.com^
 ||7k7k.com^
 ||4399en.com^
