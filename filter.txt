@@ -11,6 +11,9 @@
 ||douyinvod.com^
 ||douyincdn.com^
 ||douyinliving.com^
+||bytegecko.com^
+||ndcpp.com^
+||zijieapi.com^
 ! Toutiao
 ||toutiao.com^
 ||snssdk.com^
