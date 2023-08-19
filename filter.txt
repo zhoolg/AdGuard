@@ -9,6 +9,8 @@
 ||douyin.com^
 ||amemv.com^
 ||douyinvod.com^
+||douyincdn.com^
+||douyinliving.com^
 ! Toutiao
 ||toutiao.com^
 ||snssdk.com^
@@ -20,3 +22,4 @@
 ||huoshan.com^
 ||huoshanvod.com^
 ||huoshanimg.com^
+||huoshanlive.com^
